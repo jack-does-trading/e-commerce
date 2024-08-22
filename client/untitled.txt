@@ -1,0 +1,16 @@
+front end
+
+home
+product listing
+product details
+cart
+sign in
+sign out
+my list
+orders
+search
+my account
+contact
+about
+
+https://countriesnow.space/api/v0.1/countries/
